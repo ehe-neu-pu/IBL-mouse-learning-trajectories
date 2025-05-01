@@ -17,17 +17,3 @@ This analysis uses the IBL mouse dataset from December 2019. Due to size constra
 1. Download the dataset from [https://ndownloader.figshare.com/files/21623715](https://ndownloader.figshare.com/files/21623715)
 2. Extract the ZIP file to the `data/` directory
 3. Run the notebook which will process the data into the required format
-
-## Setup and Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR-USERNAME/IBL-mouse-learning-trajectories.git
-cd IBL-mouse-learning-trajectories
-
-# Create a virtual environment (optional but recommended)
-python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
